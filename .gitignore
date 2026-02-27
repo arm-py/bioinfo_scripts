@@ -1,0 +1,21 @@
+# Archivos de Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+
+# Archivos temporales de Excel (creados automáticamente al abrirlos)
+~$*.xls*
+
+# Archivos PDB
+*.pdb
+
+# Archivos de registro de posiciones
+*.dcd
+
+archivos de inagen
+*.img
+*.png
+*.jpg
+*.jpeg
